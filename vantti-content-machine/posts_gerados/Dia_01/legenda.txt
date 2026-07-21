@@ -1,0 +1,3 @@
+HOOK: PACIENTE QUE ESPERA AGENDA EM OUTRA CLINICA
+
+Se você demora, seu concorrente agradece...

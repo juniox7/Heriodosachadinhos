@@ -1,0 +1,7 @@
+Create a highly realistic five-second mirror-selfie video from the supplied image.
+
+The woman stays in the same position and makes only small natural movements: subtle breathing, one gentle blink, a very slight head tilt, and a small relaxed shift of body weight. Her phone remains steady. Her free hand moves only a little and naturally. The camera and mirror remain fixed.
+
+Preserve exactly the same face, freckles, copper-red hair, body proportions, white sherpa fleece jacket, fluffy fabric texture, straight black zipper, white pants, lighting, wardrobe room and background geometry from the input image.
+
+No talking, no large gestures, no camera movement, no zoom, no cuts, no new objects, no clothing changes, no face changes, no warped hands or fingers, no deformed zipper, no melting fabric, no moving walls or furniture, no text and no watermark.
